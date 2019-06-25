@@ -12,7 +12,6 @@
   "dependencies": {
     "config": "^3.1.0",
     "postman": "git+ssh://git@gitlab.com/sellpro/libraries/postman.git",
-    "punycode": "^2.1.1",
     "serialport": "^7.1.5"
   }
 }

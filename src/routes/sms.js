@@ -1,6 +1,5 @@
 const port = require("../services/modem");
 const { pcLocal } = require("../services/nats");
-const punycode = require("punycode");
 
 
 pcLocal.subscribe("sms-service.sms.send", async (msg) => {
