@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "config": "^3.1.0",
-    "postman": "git+ssh://git@gitlab.com/sellpro/libraries/postman.git",
     "serialport": "^7.1.5"
   }
 }
